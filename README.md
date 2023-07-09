@@ -1,4 +1,4 @@
-# Tic-Tac-Toe
+# Unbeatable Tic-Tac-Toe Game
 Tic tac toe game made with Unity for the Android platform.
 
 ### How to Play
